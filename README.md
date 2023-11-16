@@ -30,3 +30,9 @@ zzz
 ![1](https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/6789b336-194a-4945-8062-3bf7c15dc22a) ![4](https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/e691b067-cb94-4d18-b695-1c60f735a350) ![6](https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/4f666ac7-6ac3-4655-b17a-7bb16b792ec9) ![8](https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/548374b1-c51c-41e9-8a08-8f8b7645be71)
 
 ## Example
+
+
+<img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/6789b336-194a-4945-8062-3bf7c15dc22a" alt="1" width="200"/>
+<img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/e691b067-cb94-4d18-b695-1c60f735a350" alt="4" width="200"/>
+<img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/4f666ac7-6ac3-4655-b17a-7bb16b792ec9" alt="6" width="200"/>
+<img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/548374b1-c51c-41e9-8a08-8f8b7645be71" alt="8" width="200"/>
