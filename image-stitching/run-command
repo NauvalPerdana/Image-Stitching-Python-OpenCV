@@ -1,0 +1,10 @@
+python3 <image stitching file> --images <image input direktori> --output <image output direktori>/<output name.png>
+
+
+===example:===
+
+python3 image_stitching.py --images image-input/image1 --output image-output/image1/output.png
+
+python3 image_stitching.py --images image-input/image2 --output image-output/image2/output.png
+
+
