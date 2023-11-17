@@ -5,21 +5,22 @@ Image stitching is the process of combining multiple images with overlapping fie
 ## Requirements
 
 - Python3
-- OpenCV
 - NumPy
+- OpenCV
+- Imutils
 
 ## Library Installation
 
 You can install the required dependencies using the following command:
 
 ```bash
-pip install numpy
-```
-```bash
-pip3 install imutils
+pip3 install numpy
 ```
 ```bash
 pip3 install opencv-python
+```
+```bash
+pip3 install imutils
 ```
 
 ## Images Input
