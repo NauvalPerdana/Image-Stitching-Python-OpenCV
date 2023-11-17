@@ -96,14 +96,13 @@ For Example:
 python3 image_stitching.py --images image-input/image1 --output image-output/image1/output.png
 ```
 After the code has been executed, the output will be displayed:
-<p align="center">
-  <img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/e27f38d8-cd74-44ec-aa4b-98e3687ca88e?raw=true" alt="Your Image Description">
-</p>
+```
+[INFO] loading image...
+[INFO] stitching images...
+[INFO] Image stitched and saves to image-output/image1/output.png
+```
 
 And the output file will appear in the directory you specified in the command.
-<p align="center">
-  <img src="https://github.com/NauvalPerdana/Image-Stitching-Python/assets/150425128/960a64a9-a2d1-4200-b3bb-aa57b634891a?raw=true" alt="Your Image Description">
-</p>
 
 ## Output
 Here's the result:
